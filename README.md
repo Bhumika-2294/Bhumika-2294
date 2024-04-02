@@ -67,13 +67,15 @@
 
 ## 👉 Get in Touch 👈
 
-<div class="Getontouch">
+<div class="Getontouch" display="flex">
 
   <a href="" ><img         
   src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/5ab492a7-4098-4e61-9616-1844e33650fe" /></a>
     
-  <a href=""><img          
-  src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/29f81a2e-93ff-4032-8f51-d7adbc760a71" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/bhumikarathore"><img          
+  src="https://github.com/Bhumika-2294/Bhumika-2294/assets/121390329/706b600f-1b2d-4ba7-b5ce-c7783966d81a" /><p>GeeksforGeeks</p></a>
+
 
  <a href=""><img src="https://github.com/Anirudhj0shi/Anirudhj0shi/assets/141419375/466037ed-d8ae-4670-b361-f60ae818a390"/></a>
+ 
 
