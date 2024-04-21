@@ -1,4 +1,4 @@
-# ALWAYS USE INCOGNITO MODE ON COLLEGE SYSTEMS
+
 
 <div align='center'>
   
