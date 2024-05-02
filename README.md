@@ -5,7 +5,7 @@
    ![pngwing com (1)](https://github.com/Ronit-gurjar/Ronit-gurjar/assets/92150685/1bce0881-94ae-4f22-96f8-70601243247e)
    # ✌️ Hey there ✌️
    Your consistent and disiplined coder currently persuing b.tech in Computer science
-   ## Bhumika Rathore
+   ## Bhumika Rathore.
    <img width="60%" height="50%" src="https://github.com/Bhumika-2294/Bhumika-2294/assets/121390329/285c7f12-92fc-42e2-9ca0-d86c151734a9"/>
 
 
