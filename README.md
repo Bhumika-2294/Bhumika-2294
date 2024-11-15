@@ -16,7 +16,8 @@
   
 ![Bhumika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhumika-2294&count_private=true&theme=radical)
 
-<img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhumika-2294&theme=tokyonight" />
+<img width="48%" height="200px" src="https://github-readme-activity-graph.cyclic.app/graph?username=Bhumika-2294&theme=tokyo-night" />
+
 
 </div>
 <hr>
